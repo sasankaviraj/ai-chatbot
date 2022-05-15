@@ -1,0 +1,33 @@
+[
+  {"response_type": "greeting",
+   "user_input": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+   "bot_response": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+   "context_set": ""
+  },
+  {"response_type": "goodbye",
+   "user_input": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
+   "bot_response": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+   "context_set": ""
+  },
+  {"response_type": "age",
+   "user_input": ["how old", "how old is tim", "what is your age", "how old are you", "age?"],
+   "bot_response": ["I am 18 years old!", "18 years young!"],
+   "context_set": ""
+  },
+  {"response_type": "name",
+   "user_input": ["what is your name", "what should I call you", "whats your name?"],
+   "bot_response": ["You can call me Bot.", "I'm Bot!", "I'm Tim aka Tech With Bot."],
+   "context_set": ""
+  },
+  {"response_type": "shop",
+   "user_input": ["Id like to buy something", "whats on the menu", "what do you reccommend?", "could i get something to eat"],
+   "bot_response": ["We sell chocolate chip cookies for $2!", "Cookies are on the menu!"],
+   "context_set": ""
+  },
+  {"response_type": "hours",
+   "user_input": ["when are you guys open", "what are your hours", "hours of operation"],
+   "bot_response": ["We are open 7am-4pm Monday-Friday!"],
+   "context_set": ""
+  }
+]
+
